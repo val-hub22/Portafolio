@@ -29,4 +29,3 @@ Rol: Desarrollo mobile + experiencia de usuario
 CONTACTO
 Email: moscovavalentina@gmail.com
 LinkedIn: www.linkedin.com/in/valentina-moscova-415537259
-GitHub: https://github.com/val-hub22
